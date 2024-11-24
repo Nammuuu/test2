@@ -5,7 +5,7 @@
 
 // import Navbar from "../components/Nav"
 import Mainhomepage from "../components/product/Home"
-import Chat from "./(pages)/chat/page"
+// import Chat from "./(pages)/chat/page"
 
 // {/* <Chat /> */}
 export default function Home() {
@@ -15,7 +15,7 @@ export default function Home() {
    <> 
 
     <Mainhomepage  />
-    <Chat />
+{/*     <Chat /> */}
     </>
   );
 }
